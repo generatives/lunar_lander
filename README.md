@@ -1,0 +1,1 @@
+Trying out some RL while reading https://www.oreilly.com/library/view/reinforcement-learning/9781492072386/

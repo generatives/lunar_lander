@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+gym = "*"
+ipython = "*"
+ipykernel = "*"
+pygame = "*"
+mujoco-py = "*"
+mujoco = "*"
+box2d = "*"
+box2d-kengz = "*"
+numpy = "*"
+tensorflow = "*"
+tf-agents = "*"
+imageio = "*"
+pyvirtualdisplay = "*"
+pyglet = "*"
+matplotlib = "*"
+imageio-ffmpeg = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
